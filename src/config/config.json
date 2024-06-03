@@ -11,10 +11,10 @@
     "hoverAnimate": "rotate"
   },
   "bgConfig": {
-    "bg": "https://cdn.jsdelivr.net/gh/shadowgarden1314/imagegeren/26DFFA4DD69200C19F1E1DB1BAC535A1.jpg",
+    "bg": "https://kasuie.cc/api/img/bg?size=regular",
     "mbg": "",
     "bgStyle": "sakura",
-    "blur": "lg"
+    "blur": "none"
   },
   "layoutConfig": {
     "istTransition": true,

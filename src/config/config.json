@@ -1,7 +1,7 @@
 {
   "name": "Fireflyの主页✨",
   "favicon": "/favicon.ico",
-  "domain": "https://remio-home.vercel.app",
+  "domain": "",
   "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
@@ -11,7 +11,7 @@
     "hoverAnimate": "rotate"
   },
   "bgConfig": {
-    "bg": "",
+    "bg": "https://cdn.jsdelivr.net/gh/shadowgarden1314/imagegeren/26DFFA4DD69200C19F1E1DB1BAC535A1.jpg",
     "mbg": "",
     "bgStyle": "snow",
     "blur": ""

@@ -11,10 +11,10 @@
     "hoverAnimate": "rotate"
   },
   "bgConfig": {
-    "bg": "https://kasuie.cc/api/img/bg?size=regular",
+    "bg": "https://telegraph-image-8nb.pages.dev/file/826fb3b53f6bf729b376e.jpg",
     "mbg": "",
     "bgStyle": "sakura",
-    "blur": "none"
+    "blur": ""
   },
   "layoutConfig": {
     "istTransition": true,

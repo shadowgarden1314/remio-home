@@ -14,7 +14,7 @@
     "bg": "https://cdn.jsdelivr.net/gh/shadowgarden1314/imagegeren/26DFFA4DD69200C19F1E1DB1BAC535A1.jpg",
     "mbg": "",
     "bgStyle": "sakura",
-    "blur": "none"
+    "blur": "lg"
   },
   "layoutConfig": {
     "istTransition": true,

@@ -13,8 +13,8 @@
   "bgConfig": {
     "bg": "https://cdn.jsdelivr.net/gh/shadowgarden1314/imagegeren/26DFFA4DD69200C19F1E1DB1BAC535A1.jpg",
     "mbg": "",
-    "bgStyle": "snow",
-    "blur": ""
+    "bgStyle": "sakura",
+    "blur": "none"
   },
   "layoutConfig": {
     "istTransition": true,
@@ -79,84 +79,48 @@
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/19e958c393e6197af24d4.jpg",
       "title": "fireflyの次元",
       "url": "https://firefly-blog-0uk.pages.dev/",
       "desc": "博客主页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/25878607263e5bd2aa2a2.jpg",
       "title": "Mio 导航",
       "url": "https://nav.kasuie.cc",
       "desc": "Mio 网站导航"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/3418d29596b2511dfd0e3.jpg",
       "title": "fireflyのAI",
       "url": "https://gemini.hellowold.dynv6.net/",
       "desc": "Gemini"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/3e8033bd3765274b3a9e5.png",
       "title": "KASUIEの库",
       "url": "https://dist.kasuie.cc",
       "desc": "网盘挂载程序"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/4cc51f17366ef6b2226b8.png",
       "title": "fireflyの图床",
       "url": "https://telegraph-image-8nb.pages.dev/",
       "desc": "图床服务"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/586b3de65f59f1ee27ee7.png",
       "title": "音乐",
       "url": "https://heomusic2.pages.dev/",
       "desc": "网易音乐"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "icon": "hhttps://telegraph-image-8nb.pages.dev/file/6ec0d67dde582f8f82a2f.jpg",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
+      "icon": "https://telegraph-image-8nb.pages.dev/file/8262ed5f681418721f125.png",
       "title": "KASUIEの导航",
       "url": "https://pixlips.github.io",
       "desc": "导航页(beta)"
